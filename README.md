@@ -3,7 +3,7 @@
 Implement Jenkins Pipeline to Deploy to Azure Cloud Webapp app Containers with Blue Green Deployment
 
 
-![alt text](jenkins.png?raw=true "Title)
+![alt text](jenkins.png?raw=true "Jenkins")
 
 
 We use Azure Cloud Webapp app Containers https://azure.microsoft.com/en-us/services/app-service/containers/ to run containers in Azure
